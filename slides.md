@@ -46,6 +46,12 @@ TODO: How to add logos?
 
 ---
 
+# Introduction
+
+* For those who don't know me, add information on who I am and what I do.
+
+---
+
 # Goals for PyHEP 2023
 <br>
 
