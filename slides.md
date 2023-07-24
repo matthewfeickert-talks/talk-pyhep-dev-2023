@@ -14,7 +14,7 @@ favicon: 'https://indico.cern.ch/images/indico.ico?format=100w'
 transition: fade-out
 selectable: true
 download: true
-title: sustainability-of-scientific-open-source-software_2023-07-25
+title: feickert_pyhep-dev-2023_2023-07-25
 ---
 
 # **Working towards fully<br>differentiable analysis**
