@@ -43,10 +43,9 @@ jobs:
         run: env
 
       - name: build
-        run: npx slidev build --base /${{ github.event.repository.name }}/'s
+        run: npx slidev build --base /${{ github.event.repository.name }}/
 
       - name: Fix permissions
-        if: success() && github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         run: |
           chmod -c -R +rX "book/_build/html/" | while read line; do
             echo "::warning title=Invalid file permissions automatically fixed::$line"
