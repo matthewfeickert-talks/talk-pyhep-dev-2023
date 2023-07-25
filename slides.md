@@ -10,7 +10,7 @@ info: |
  Introductory talk at PyHEP.dev 2023
 drawings:
   persist: false
-favicon: 'https://indico.cern.ch/images/indico.ico?format=100w'
+favicon: 'https://github.com/favicon.ico?format=100w'
 transition: fade-out
 selectable: true
 download: true
