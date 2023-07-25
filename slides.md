@@ -17,7 +17,7 @@ download: true
 title: feickert_pyhep-dev-2023_2023-07-25
 ---
 
-# **Working towards fully<br>differentiable analysis**
+# **Working Towards Fully<br>Differentiable Analysis**
 <br>
 Matthew Feickert
 
