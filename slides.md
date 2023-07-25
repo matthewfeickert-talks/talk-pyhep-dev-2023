@@ -117,6 +117,22 @@ TODO: How to add logos?
 
 ---
 
+# Would love to engage with you on this
+
+<div style="display: flex; justify-content:center;">
+<a href="https://github.com/HSF/PyHEP.dev-workshops/issues/27" style="border-style: none;">
+<img src="/figures/auto-diff-github-issue.png" style="width: 70%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="text-align:center;">
+
+[PyHEP.dev 2023 Issue #27](https://github.com/HSF/PyHEP.dev-workshops/issues/27)
+
+</div>
+
+---
+
 # Goals for PyHEP 2023
 <br>
 
