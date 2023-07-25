@@ -75,6 +75,32 @@ TODO: How to add logos?
 
 ---
 
+# IRIS-HEP Analysis Systems Pipeline
+
+<div style="display: flex; justify-content:center;">
+<a href="https://iris-hep.org/as.html" style="border-style: none;">
+<img src="https://iris-hep.org/assets/images/cabinetry-vertical-slice.png" style="width: 100%; margin: 0 auto;">
+</a>
+</div>
+
+---
+
+# Looking towards differentiability of tools
+
+<div style="display: flex; justify-content:center;">
+<a href="https://www.munich-iapbp.de/probabilistic-programming/schedule" style="border-style: none;">
+<img src="/figures/MIAPbP-poster.png" style="width: 50%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="text-align:center;">
+
+[MIAPbP Differentiable and Probabilistic Programming for Fundamental Physics program](https://www.munich-iapbp.de/probabilistic-programming/schedule)
+
+</div>
+
+---
+
 # Goals for PyHEP 2023
 <br>
 
