@@ -169,3 +169,19 @@ layout: center
 
 Looking forward to a good week
 </div>
+
+---
+
+# Plug for upcoming workshop
+
+<div style="display: flex; justify-content:center;">
+<a href="https://indico.cern.ch/event/1294577/" style="border-style: none;">
+<img src="/figures/pyhf-workshop-indico.png" style="width: 70%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="text-align:center;">
+
+[pyhf Users and Developers Workshop](https://indico.cern.ch/event/1294577/)
+
+</div>
