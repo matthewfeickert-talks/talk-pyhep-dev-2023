@@ -165,21 +165,3 @@ layout: center
 
 Looking forward to a good week
 </div>
-
-
----
-
-# Learn from the Scientific Python organization
-
-<div style="display: flex; justify-content:center;">
-<a href="https://scikit-hep.org/" style="border-style: none;">
-<img src="/figures/scientific-python.png" style="width: 80%; margin: 0 auto;">
-</a>
-</div>
-
-
-<div style="text-align:center;">
-
-[scientific-python.org](https://scientific-python.org/)
-
-</div>
