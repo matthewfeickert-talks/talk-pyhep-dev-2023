@@ -27,6 +27,7 @@ matthew.feickert@cern.ch
 
 July 25th, 2023
 
+<!-- UW-Madison logo -->
 <div class="abs-bl m-5 flex gap-2">
   <img src=/figures/logos/logo_institution.png style="width: 30%">
 </div>
@@ -37,6 +38,9 @@ July 25th, 2023
     <carbon-logo-github />
   </a>
 </div>
+
+<!-- IRIS-HEP logo -->
+<img src=/figures/logos/logo_IRIS-HEP.png style="position: fixed; bottom: 15px; right: 60px; width: 15%">
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
