@@ -6,5 +6,5 @@ Introductory talk at PyHEP.dev 2023
 ```
 nodeenv .env
 . .env/bin/activate
-npm install @slidev/cli @slidev/theme-default @slidev/theme-seriph playwright-chromium
+npm install  # Install from package-lock.json
 ```
