@@ -101,6 +101,22 @@ TODO: How to add logos?
 
 ---
 
+# Prior art on this topic: [neos](https://github.com/gradhep/neos)
+
+<div style="display: flex; justify-content:center;">
+<a href="https://github.com/gradhep/neos" style="border-style: none;">
+<img src="https://raw.githubusercontent.com/gradhep/neos/main/animation.gif" style="width: 70%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="font-size:24px;">
+
+"Leverages the shoulders of giants (jax and pyhf) to differentiate through a high-energy physics analysis workflow, including the construction of the frequentist profile likelihood." --- neos docs
+
+</div>
+
+---
+
 # Goals for PyHEP 2023
 <br>
 
