@@ -48,7 +48,30 @@ TODO: How to add logos?
 
 # Introduction
 
-* For those who don't know me, add information on who I am and what I do.
+<div class="grid grid-cols-[60%_1fr] gap-4">
+<div style="font-size: 30px">
+
+* Postdoc  on ATLAS at the University of Wisconsin-Madison Data Science Institute
+* IRIS-HEP Analysis Systems focus area lead
+* pyhf core developer and maintainer
+
+</div>
+<div>
+
+<div style="display: flex; justify-content:center;">
+<img border="rounded" src="/figures/logos/logo_ATLAS.png" style="width: 80%">
+</div>
+
+<div style="display: flex; justify-content:center;">
+<img border="rounded" src="/figures/logos/logo_IRIS-HEP.png" style="width: 60%">
+</div>
+
+<div style="display: flex; justify-content:center;">
+<img border="rounded" src="https://raw.githubusercontent.com/scikit-hep/pyhf/main/docs/_static/img/pyhf-logo.svg?raw=true" style="width: 60%">
+</div>
+
+</div>
+</div>
 
 ---
 
