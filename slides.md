@@ -143,6 +143,47 @@ Nathan Simpson, Lukas Heinrich
 
 ---
 
+# Would also love for _us_ to engage (more) with scientific Python
+
+<div class="grid grid-cols-[50%_1fr] gap-4">
+
+<div>
+<div style="display: flex; justify-content:center;">
+<a href="https://scientific-python.org/" style="border-style: none;">
+<img src="/figures/scientific-python.png" style="width: 100%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="text-align:center;">
+
+[scientific-python.org](https://scientific-python.org/)
+
+</div>
+</div>
+
+<div>
+
+<br>
+
+<div>
+<div style="display: flex; justify-content:center;">
+<a href="https://data-apis.org/" style="border-style: none;">
+<img src="/figures/array-api-website.png" style="width: 100%; margin: 0 auto;">
+</a>
+</div>
+
+<div style="text-align:center;">
+
+[data-apis.org](https://data-apis.org/)
+
+</div>
+</div>
+
+</div>
+</div>
+
+---
+
 # Goals for PyHEP 2023
 <br>
 
