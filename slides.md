@@ -105,8 +105,14 @@ TODO: How to add logos?
 
 <div style="display: flex; justify-content:center;">
 <a href="https://github.com/gradhep/neos" style="border-style: none;">
-<img src="https://raw.githubusercontent.com/gradhep/neos/main/animation.gif" style="width: 70%; margin: 0 auto;">
+<img src="https://raw.githubusercontent.com/gradhep/neos/fd52e3fc91a24805880cdc0a8d0669a06235955e/animation.gif" style="width: 65%; margin: 0 auto;">
 </a>
+</div>
+
+<div style="text-align:center;">
+
+Nathan Simpson, Lukas Heinrich
+
 </div>
 
 <div style="font-size:24px;">
@@ -136,9 +142,30 @@ TODO: How to add logos?
 # Goals for PyHEP 2023
 <br>
 
-* Discussions of pyhf differentiability
-* HS3
-* Better onboarding experience
+<div style="font-size: 22px">
+
+* Working towards tool differentiability (personal focus on pyhf)
+   - [HSF/PyHEP.dev-workshops/ Issue #27](https://github.com/HSF/PyHEP.dev-workshops/issues/27)
+* Discussion and move towards tool adoption of HEP Statistics Serialization Standard  (HS3)
+   - [HSF/PyHEP.dev-workshops/ Issue #5](https://github.com/HSF/PyHEP.dev-workshops/issues/5)
+   - [HS3 GitHub](https://github.com/hep-statistics-serialization-standard/hep-statistics-serialization-standard)
+* Improve the onboarding experience for new contributors to Scikit-HEP/PyHEP ecosystem (personal focus on pyhf)
+   - [HSF/PyHEP.dev-workshops/ Issue #6](https://github.com/HSF/PyHEP.dev-workshops/issues/6)
+   - [HSF/PyHEP.dev-workshops/ Issue #9](https://github.com/HSF/PyHEP.dev-workshops/issues/9)
+</div>
+
+---
+layout: center
+---
+
+# Let's talk!
+<br>
+
+<div style="font-size: 30px">
+
+Looking forward to a good week
+</div>
+
 
 ---
 
@@ -156,12 +183,3 @@ TODO: How to add logos?
 [scientific-python.org](https://scientific-python.org/)
 
 </div>
-
----
-layout: center
----
-
-# Let's talk!
-<br>
-
-Looking forward to a good week
