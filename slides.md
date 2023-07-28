@@ -39,8 +39,9 @@ July 25th, 2023
   </a>
 </div>
 
-<!-- IRIS-HEP logo -->
-<img src=/figures/logos/logo_IRIS-HEP.png style="position: fixed; bottom: 15px; right: 60px; width: 15%">
+<div class="abs-br m-5 flex gap-2" style="position: relative;">
+  <img src="/figures/logos/logo_IRIS-HEP.png" style="width: 18%; position: absolute; bottom: 1; right: 0;">
+</div>
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
